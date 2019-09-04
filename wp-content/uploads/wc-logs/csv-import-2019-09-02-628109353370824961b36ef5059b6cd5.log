@@ -1,0 +1,872 @@
+2019-09-02T11:59:20+00:00 DEBUG ---[ New Import ] PHP Memory: 128 MB, WP Memory: 40 MB
+2019-09-02T11:59:20+00:00 DEBUG Parsing products CSV.
+2019-09-02T11:59:20+00:00 DEBUG Finished parsing products CSV.
+2019-09-02T11:59:20+00:00 DEBUG ---
+2019-09-02T11:59:20+00:00 DEBUG Processing products.
+2019-09-02T11:59:20+00:00 DEBUG > Row 1 - preparing for import.
+2019-09-02T11:59:20+00:00 DEBUG > Inserting 
+2019-09-02T11:59:20+00:00 DEBUG > Inserted - post ID is 37.
+2019-09-02T11:59:20+00:00 DEBUG > > Importing image "product-1.jpg"
+2019-09-02T11:59:20+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-1.jpg"
+2019-09-02T11:59:20+00:00 DEBUG > > Imported image "product-1.jpg"
+2019-09-02T11:59:20+00:00 DEBUG > > Images set
+2019-09-02T11:59:20+00:00 DEBUG > Finished importing post ID 37.
+2019-09-02T11:59:20+00:00 DEBUG > Row 2 - preparing for import.
+2019-09-02T11:59:20+00:00 DEBUG > Inserting 
+2019-09-02T11:59:20+00:00 DEBUG > Inserted - post ID is 38.
+2019-09-02T11:59:20+00:00 DEBUG > > Importing image "product-2.jpg"
+2019-09-02T11:59:20+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-2.jpg"
+2019-09-02T11:59:20+00:00 DEBUG > > Imported image "product-2.jpg"
+2019-09-02T11:59:20+00:00 DEBUG > > Images set
+2019-09-02T11:59:20+00:00 DEBUG > Finished importing post ID 38.
+2019-09-02T11:59:20+00:00 DEBUG > Row 3 - preparing for import.
+2019-09-02T11:59:20+00:00 DEBUG > Inserting 
+2019-09-02T11:59:20+00:00 DEBUG > Inserted - post ID is 39.
+2019-09-02T11:59:20+00:00 DEBUG > > Importing image "product-3.jpg"
+2019-09-02T11:59:20+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-3.jpg"
+2019-09-02T11:59:20+00:00 DEBUG > > Imported image "product-3.jpg"
+2019-09-02T11:59:20+00:00 DEBUG > > Images set
+2019-09-02T11:59:20+00:00 DEBUG > Finished importing post ID 39.
+2019-09-02T11:59:20+00:00 DEBUG > Row 4 - preparing for import.
+2019-09-02T11:59:20+00:00 DEBUG > Inserting 
+2019-09-02T11:59:20+00:00 DEBUG > Inserted - post ID is 40.
+2019-09-02T11:59:20+00:00 DEBUG > > Importing image "product-2.jpg"
+2019-09-02T11:59:20+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-2.jpg"
+2019-09-02T11:59:20+00:00 DEBUG > > Imported image "product-2.jpg"
+2019-09-02T11:59:20+00:00 DEBUG > > Images set
+2019-09-02T11:59:20+00:00 DEBUG > Finished importing post ID 40.
+2019-09-02T11:59:20+00:00 DEBUG > Row 5 - preparing for import.
+2019-09-02T11:59:20+00:00 DEBUG > Inserting 
+2019-09-02T11:59:20+00:00 DEBUG > Inserted - post ID is 41.
+2019-09-02T11:59:20+00:00 DEBUG > > Importing image "product-2.jpg"
+2019-09-02T11:59:20+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-2.jpg"
+2019-09-02T11:59:20+00:00 DEBUG > > Imported image "product-2.jpg"
+2019-09-02T11:59:20+00:00 DEBUG > > Images set
+2019-09-02T11:59:20+00:00 DEBUG > Finished importing post ID 41.
+2019-09-02T11:59:20+00:00 DEBUG > Row 6 - preparing for import.
+2019-09-02T11:59:20+00:00 DEBUG > Inserting 
+2019-09-02T11:59:21+00:00 DEBUG > Inserted - post ID is 42.
+2019-09-02T11:59:21+00:00 DEBUG > > Importing image "product-3.jpg"
+2019-09-02T11:59:21+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-3.jpg"
+2019-09-02T11:59:21+00:00 DEBUG > > Imported image "product-3.jpg"
+2019-09-02T11:59:21+00:00 DEBUG > > Images set
+2019-09-02T11:59:21+00:00 DEBUG > Finished importing post ID 42.
+2019-09-02T11:59:21+00:00 DEBUG > Row 7 - preparing for import.
+2019-09-02T11:59:21+00:00 DEBUG > Inserting 
+2019-09-02T11:59:21+00:00 DEBUG > Inserted - post ID is 43.
+2019-09-02T11:59:21+00:00 DEBUG > > Importing image "product-3.jpg"
+2019-09-02T11:59:21+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-3.jpg"
+2019-09-02T11:59:21+00:00 DEBUG > > Imported image "product-3.jpg"
+2019-09-02T11:59:21+00:00 DEBUG > > Images set
+2019-09-02T11:59:21+00:00 DEBUG > Finished importing post ID 43.
+2019-09-02T11:59:21+00:00 DEBUG > Row 8 - preparing for import.
+2019-09-02T11:59:21+00:00 DEBUG > Inserting 
+2019-09-02T11:59:21+00:00 DEBUG > Inserted - post ID is 44.
+2019-09-02T11:59:21+00:00 DEBUG > > Importing image "product-3.jpg"
+2019-09-02T11:59:21+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-3.jpg"
+2019-09-02T11:59:21+00:00 DEBUG > > Imported image "product-3.jpg"
+2019-09-02T11:59:21+00:00 DEBUG > > Images set
+2019-09-02T11:59:21+00:00 DEBUG > Finished importing post ID 44.
+2019-09-02T11:59:21+00:00 DEBUG > Row 9 - preparing for import.
+2019-09-02T11:59:21+00:00 DEBUG > Inserting 
+2019-09-02T11:59:21+00:00 DEBUG > Inserted - post ID is 45.
+2019-09-02T11:59:21+00:00 DEBUG > > Importing image "product-3.jpg"
+2019-09-02T11:59:21+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-3.jpg"
+2019-09-02T11:59:21+00:00 DEBUG > > Imported image "product-3.jpg"
+2019-09-02T11:59:21+00:00 DEBUG > > Images set
+2019-09-02T11:59:21+00:00 DEBUG > Finished importing post ID 45.
+2019-09-02T11:59:21+00:00 DEBUG Finished processing products.
+2019-09-02T11:59:22+00:00 DEBUG ---[ New Import ] PHP Memory: 128 MB, WP Memory: 40 MB
+2019-09-02T11:59:22+00:00 DEBUG Parsing products CSV.
+2019-09-02T11:59:22+00:00 DEBUG Finished parsing products CSV.
+2019-09-02T11:59:22+00:00 DEBUG ---
+2019-09-02T11:59:22+00:00 DEBUG Processing products.
+2019-09-02T11:59:22+00:00 DEBUG > Row 1 - preparing for import.
+2019-09-02T11:59:22+00:00 DEBUG > Inserting 
+2019-09-02T11:59:22+00:00 DEBUG > Inserted - post ID is 46.
+2019-09-02T11:59:22+00:00 DEBUG > > Importing image "product-2.jpg"
+2019-09-02T11:59:22+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-2.jpg"
+2019-09-02T11:59:22+00:00 DEBUG > > Imported image "product-2.jpg"
+2019-09-02T11:59:22+00:00 DEBUG > > Images set
+2019-09-02T11:59:22+00:00 DEBUG > Finished importing post ID 46.
+2019-09-02T11:59:22+00:00 DEBUG > Row 2 - preparing for import.
+2019-09-02T11:59:22+00:00 DEBUG > Inserting 
+2019-09-02T11:59:22+00:00 DEBUG > Inserted - post ID is 47.
+2019-09-02T11:59:22+00:00 DEBUG > > Importing image "product-2.jpg"
+2019-09-02T11:59:22+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-2.jpg"
+2019-09-02T11:59:22+00:00 DEBUG > > Imported image "product-2.jpg"
+2019-09-02T11:59:22+00:00 DEBUG > > Images set
+2019-09-02T11:59:22+00:00 DEBUG > Finished importing post ID 47.
+2019-09-02T11:59:22+00:00 DEBUG > Row 3 - preparing for import.
+2019-09-02T11:59:22+00:00 DEBUG > Inserting 
+2019-09-02T11:59:22+00:00 DEBUG > Inserted - post ID is 48.
+2019-09-02T11:59:22+00:00 DEBUG > > Importing image "product-2.jpg"
+2019-09-02T11:59:22+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-2.jpg"
+2019-09-02T11:59:22+00:00 DEBUG > > Imported image "product-2.jpg"
+2019-09-02T11:59:22+00:00 DEBUG > > Images set
+2019-09-02T11:59:22+00:00 DEBUG > Finished importing post ID 48.
+2019-09-02T11:59:22+00:00 DEBUG > Row 4 - preparing for import.
+2019-09-02T11:59:22+00:00 DEBUG > Inserting 
+2019-09-02T11:59:22+00:00 DEBUG > Inserted - post ID is 49.
+2019-09-02T11:59:22+00:00 DEBUG > > Importing image "product-2.jpg"
+2019-09-02T11:59:22+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-2.jpg"
+2019-09-02T11:59:22+00:00 DEBUG > > Imported image "product-2.jpg"
+2019-09-02T11:59:22+00:00 DEBUG > > Images set
+2019-09-02T11:59:22+00:00 DEBUG > Finished importing post ID 49.
+2019-09-02T11:59:22+00:00 DEBUG > Row 5 - preparing for import.
+2019-09-02T11:59:22+00:00 DEBUG > Inserting 
+2019-09-02T11:59:22+00:00 DEBUG > Inserted - post ID is 50.
+2019-09-02T11:59:22+00:00 DEBUG > > Importing image "product-1.jpg"
+2019-09-02T11:59:22+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-1.jpg"
+2019-09-02T11:59:22+00:00 DEBUG > > Imported image "product-1.jpg"
+2019-09-02T11:59:22+00:00 DEBUG > > Images set
+2019-09-02T11:59:22+00:00 DEBUG > Finished importing post ID 50.
+2019-09-02T11:59:22+00:00 DEBUG > Row 6 - preparing for import.
+2019-09-02T11:59:22+00:00 DEBUG > Inserting 
+2019-09-02T11:59:22+00:00 DEBUG > Inserted - post ID is 51.
+2019-09-02T11:59:23+00:00 DEBUG > > Importing image "product-1.jpg"
+2019-09-02T11:59:23+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-1.jpg"
+2019-09-02T11:59:23+00:00 DEBUG > > Imported image "product-1.jpg"
+2019-09-02T11:59:23+00:00 DEBUG > > Images set
+2019-09-02T11:59:23+00:00 DEBUG > Finished importing post ID 51.
+2019-09-02T11:59:23+00:00 DEBUG > Row 7 - preparing for import.
+2019-09-02T11:59:23+00:00 DEBUG > Inserting 
+2019-09-02T11:59:23+00:00 DEBUG > Inserted - post ID is 52.
+2019-09-02T11:59:23+00:00 DEBUG > > Importing image "product-1.jpg"
+2019-09-02T11:59:23+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-1.jpg"
+2019-09-02T11:59:23+00:00 DEBUG > > Imported image "product-1.jpg"
+2019-09-02T11:59:23+00:00 DEBUG > > Images set
+2019-09-02T11:59:23+00:00 DEBUG > Finished importing post ID 52.
+2019-09-02T11:59:23+00:00 DEBUG > Row 8 - preparing for import.
+2019-09-02T11:59:23+00:00 DEBUG > Inserting 
+2019-09-02T11:59:23+00:00 DEBUG > Inserted - post ID is 53.
+2019-09-02T11:59:23+00:00 DEBUG > > Importing image "product-1.jpg"
+2019-09-02T11:59:23+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-1.jpg"
+2019-09-02T11:59:23+00:00 DEBUG > > Imported image "product-1.jpg"
+2019-09-02T11:59:23+00:00 DEBUG > > Images set
+2019-09-02T11:59:23+00:00 DEBUG > Finished importing post ID 53.
+2019-09-02T11:59:23+00:00 DEBUG > Row 9 - preparing for import.
+2019-09-02T11:59:23+00:00 DEBUG > Inserting 
+2019-09-02T11:59:23+00:00 DEBUG > Inserted - post ID is 54.
+2019-09-02T11:59:23+00:00 DEBUG > > Importing image "product-1.jpg"
+2019-09-02T11:59:23+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-1.jpg"
+2019-09-02T11:59:23+00:00 DEBUG > > Imported image "product-1.jpg"
+2019-09-02T11:59:23+00:00 DEBUG > > Images set
+2019-09-02T11:59:23+00:00 DEBUG > Finished importing post ID 54.
+2019-09-02T11:59:23+00:00 DEBUG > Row 10 - preparing for import.
+2019-09-02T11:59:23+00:00 DEBUG > Inserting 
+2019-09-02T11:59:23+00:00 DEBUG > Inserted - post ID is 55.
+2019-09-02T11:59:23+00:00 DEBUG > > Importing image "product-3.jpg"
+2019-09-02T11:59:23+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-3.jpg"
+2019-09-02T11:59:23+00:00 DEBUG > > Imported image "product-3.jpg"
+2019-09-02T11:59:23+00:00 DEBUG > > Images set
+2019-09-02T11:59:23+00:00 DEBUG > Finished importing post ID 55.
+2019-09-02T11:59:23+00:00 DEBUG Finished processing products.
+2019-09-02T11:59:24+00:00 DEBUG ---[ New Import ] PHP Memory: 128 MB, WP Memory: 40 MB
+2019-09-02T11:59:24+00:00 DEBUG Parsing products CSV.
+2019-09-02T11:59:24+00:00 DEBUG Finished parsing products CSV.
+2019-09-02T11:59:24+00:00 DEBUG ---
+2019-09-02T11:59:24+00:00 DEBUG Processing products.
+2019-09-02T11:59:24+00:00 DEBUG > Row 1 - preparing for import.
+2019-09-02T11:59:24+00:00 DEBUG > Inserting 
+2019-09-02T11:59:24+00:00 DEBUG > Inserted - post ID is 56.
+2019-09-02T11:59:24+00:00 DEBUG > > Importing image "product-3.jpg"
+2019-09-02T11:59:24+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-3.jpg"
+2019-09-02T11:59:24+00:00 DEBUG > > Imported image "product-3.jpg"
+2019-09-02T11:59:24+00:00 DEBUG > > Images set
+2019-09-02T11:59:24+00:00 DEBUG > Finished importing post ID 56.
+2019-09-02T11:59:24+00:00 DEBUG > Row 2 - preparing for import.
+2019-09-02T11:59:24+00:00 DEBUG > Inserting 
+2019-09-02T11:59:24+00:00 DEBUG > Inserted - post ID is 57.
+2019-09-02T11:59:24+00:00 DEBUG > > Importing image "product-3.jpg"
+2019-09-02T11:59:24+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-3.jpg"
+2019-09-02T11:59:24+00:00 DEBUG > > Imported image "product-3.jpg"
+2019-09-02T11:59:24+00:00 DEBUG > > Images set
+2019-09-02T11:59:24+00:00 DEBUG > Finished importing post ID 57.
+2019-09-02T11:59:24+00:00 DEBUG > Row 3 - preparing for import.
+2019-09-02T11:59:24+00:00 DEBUG > Inserting 
+2019-09-02T11:59:24+00:00 DEBUG > Inserted - post ID is 58.
+2019-09-02T11:59:24+00:00 DEBUG > > Importing image "product-1.jpg"
+2019-09-02T11:59:24+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-1.jpg"
+2019-09-02T11:59:24+00:00 DEBUG > > Imported image "product-1.jpg"
+2019-09-02T11:59:24+00:00 DEBUG > > Images set
+2019-09-02T11:59:24+00:00 DEBUG > Finished importing post ID 58.
+2019-09-02T11:59:24+00:00 DEBUG > Row 4 - preparing for import.
+2019-09-02T11:59:24+00:00 DEBUG > Inserting 
+2019-09-02T11:59:24+00:00 DEBUG > Inserted - post ID is 59.
+2019-09-02T11:59:24+00:00 DEBUG > > Importing image "product-1.jpg"
+2019-09-02T11:59:24+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-1.jpg"
+2019-09-02T11:59:24+00:00 DEBUG > > Imported image "product-1.jpg"
+2019-09-02T11:59:24+00:00 DEBUG > > Images set
+2019-09-02T11:59:24+00:00 DEBUG > Finished importing post ID 59.
+2019-09-02T11:59:24+00:00 DEBUG > Row 5 - preparing for import.
+2019-09-02T11:59:24+00:00 DEBUG > Inserting 
+2019-09-02T11:59:24+00:00 DEBUG > Inserted - post ID is 60.
+2019-09-02T11:59:24+00:00 DEBUG > > Importing image "product-2.jpg"
+2019-09-02T11:59:24+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-2.jpg"
+2019-09-02T11:59:24+00:00 DEBUG > > Imported image "product-2.jpg"
+2019-09-02T11:59:24+00:00 DEBUG > > Images set
+2019-09-02T11:59:24+00:00 DEBUG > Finished importing post ID 60.
+2019-09-02T11:59:24+00:00 DEBUG > Row 6 - preparing for import.
+2019-09-02T11:59:24+00:00 DEBUG > Inserting 
+2019-09-02T11:59:25+00:00 DEBUG > Inserted - post ID is 61.
+2019-09-02T11:59:25+00:00 DEBUG > > Importing image "product-2.jpg"
+2019-09-02T11:59:25+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-2.jpg"
+2019-09-02T11:59:25+00:00 DEBUG > > Imported image "product-2.jpg"
+2019-09-02T11:59:25+00:00 DEBUG > > Images set
+2019-09-02T11:59:25+00:00 DEBUG > Finished importing post ID 61.
+2019-09-02T11:59:25+00:00 DEBUG > Row 7 - preparing for import.
+2019-09-02T11:59:25+00:00 DEBUG > Inserting 
+2019-09-02T11:59:25+00:00 DEBUG > Inserted - post ID is 62.
+2019-09-02T11:59:25+00:00 DEBUG > > Importing image "product-1.jpg"
+2019-09-02T11:59:25+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-1.jpg"
+2019-09-02T11:59:25+00:00 DEBUG > > Imported image "product-1.jpg"
+2019-09-02T11:59:25+00:00 DEBUG > > Images set
+2019-09-02T11:59:25+00:00 DEBUG > Finished importing post ID 62.
+2019-09-02T11:59:25+00:00 DEBUG > Row 8 - preparing for import.
+2019-09-02T11:59:25+00:00 DEBUG > Inserting 
+2019-09-02T11:59:25+00:00 DEBUG > Inserted - post ID is 63.
+2019-09-02T11:59:25+00:00 DEBUG > > Importing image "product-1.jpg"
+2019-09-02T11:59:25+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-1.jpg"
+2019-09-02T11:59:25+00:00 DEBUG > > Imported image "product-1.jpg"
+2019-09-02T11:59:25+00:00 DEBUG > > Images set
+2019-09-02T11:59:25+00:00 DEBUG > Finished importing post ID 63.
+2019-09-02T11:59:25+00:00 DEBUG > Row 9 - preparing for import.
+2019-09-02T11:59:25+00:00 DEBUG > Inserting 
+2019-09-02T11:59:25+00:00 DEBUG > Inserted - post ID is 64.
+2019-09-02T11:59:25+00:00 DEBUG > > Importing image "product-1.jpg"
+2019-09-02T11:59:25+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-1.jpg"
+2019-09-02T11:59:25+00:00 DEBUG > > Imported image "product-1.jpg"
+2019-09-02T11:59:25+00:00 DEBUG > > Images set
+2019-09-02T11:59:25+00:00 DEBUG > Finished importing post ID 64.
+2019-09-02T11:59:25+00:00 DEBUG > Row 10 - preparing for import.
+2019-09-02T11:59:25+00:00 DEBUG > Inserting 
+2019-09-02T11:59:25+00:00 DEBUG > Inserted - post ID is 65.
+2019-09-02T11:59:25+00:00 DEBUG > > Importing image "product-3.jpg"
+2019-09-02T11:59:25+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-3.jpg"
+2019-09-02T11:59:25+00:00 DEBUG > > Imported image "product-3.jpg"
+2019-09-02T11:59:25+00:00 DEBUG > > Images set
+2019-09-02T11:59:25+00:00 DEBUG > Finished importing post ID 65.
+2019-09-02T11:59:25+00:00 DEBUG Finished processing products.
+2019-09-02T11:59:26+00:00 DEBUG ---[ New Import ] PHP Memory: 128 MB, WP Memory: 40 MB
+2019-09-02T11:59:26+00:00 DEBUG Parsing products CSV.
+2019-09-02T11:59:26+00:00 DEBUG Finished parsing products CSV.
+2019-09-02T11:59:26+00:00 DEBUG ---
+2019-09-02T11:59:26+00:00 DEBUG Processing products.
+2019-09-02T11:59:26+00:00 DEBUG > Row 1 - preparing for import.
+2019-09-02T11:59:26+00:00 DEBUG > Inserting 
+2019-09-02T11:59:26+00:00 DEBUG > Inserted - post ID is 66.
+2019-09-02T11:59:26+00:00 DEBUG > > Importing image "product-3.jpg"
+2019-09-02T11:59:26+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-3.jpg"
+2019-09-02T11:59:26+00:00 DEBUG > > Imported image "product-3.jpg"
+2019-09-02T11:59:26+00:00 DEBUG > > Images set
+2019-09-02T11:59:26+00:00 DEBUG > Finished importing post ID 66.
+2019-09-02T11:59:26+00:00 DEBUG > Row 2 - preparing for import.
+2019-09-02T11:59:26+00:00 DEBUG > Inserting 
+2019-09-02T11:59:26+00:00 DEBUG > Inserted - post ID is 67.
+2019-09-02T11:59:26+00:00 DEBUG > > Importing image "product-3.jpg"
+2019-09-02T11:59:26+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-3.jpg"
+2019-09-02T11:59:26+00:00 DEBUG > > Imported image "product-3.jpg"
+2019-09-02T11:59:26+00:00 DEBUG > > Images set
+2019-09-02T11:59:26+00:00 DEBUG > Finished importing post ID 67.
+2019-09-02T11:59:26+00:00 DEBUG > Row 3 - preparing for import.
+2019-09-02T11:59:26+00:00 DEBUG > Inserting 
+2019-09-02T11:59:26+00:00 DEBUG > Inserted - post ID is 68.
+2019-09-02T11:59:26+00:00 DEBUG > > Importing image "product-3.jpg"
+2019-09-02T11:59:26+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-3.jpg"
+2019-09-02T11:59:26+00:00 DEBUG > > Imported image "product-3.jpg"
+2019-09-02T11:59:26+00:00 DEBUG > > Images set
+2019-09-02T11:59:26+00:00 DEBUG > Finished importing post ID 68.
+2019-09-02T11:59:26+00:00 DEBUG > Row 4 - preparing for import.
+2019-09-02T11:59:26+00:00 DEBUG > Inserting 
+2019-09-02T11:59:26+00:00 DEBUG > Inserted - post ID is 69.
+2019-09-02T11:59:26+00:00 DEBUG > > Importing image "product-3.jpg"
+2019-09-02T11:59:26+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-3.jpg"
+2019-09-02T11:59:26+00:00 DEBUG > > Imported image "product-3.jpg"
+2019-09-02T11:59:26+00:00 DEBUG > > Images set
+2019-09-02T11:59:26+00:00 DEBUG > Finished importing post ID 69.
+2019-09-02T11:59:26+00:00 DEBUG > Row 5 - preparing for import.
+2019-09-02T11:59:26+00:00 DEBUG > Inserting 
+2019-09-02T11:59:26+00:00 DEBUG > Inserted - post ID is 70.
+2019-09-02T11:59:27+00:00 DEBUG > > Importing image "product-1.jpg"
+2019-09-02T11:59:27+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-1.jpg"
+2019-09-02T11:59:27+00:00 DEBUG > > Imported image "product-1.jpg"
+2019-09-02T11:59:27+00:00 DEBUG > > Images set
+2019-09-02T11:59:27+00:00 DEBUG > Finished importing post ID 70.
+2019-09-02T11:59:27+00:00 DEBUG > Row 6 - preparing for import.
+2019-09-02T11:59:27+00:00 DEBUG > Inserting 
+2019-09-02T11:59:27+00:00 DEBUG > Inserted - post ID is 71.
+2019-09-02T11:59:27+00:00 DEBUG > > Importing image "product-1.jpg"
+2019-09-02T11:59:27+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-1.jpg"
+2019-09-02T11:59:27+00:00 DEBUG > > Imported image "product-1.jpg"
+2019-09-02T11:59:27+00:00 DEBUG > > Images set
+2019-09-02T11:59:27+00:00 DEBUG > Finished importing post ID 71.
+2019-09-02T11:59:27+00:00 DEBUG > Row 7 - preparing for import.
+2019-09-02T11:59:27+00:00 DEBUG > Inserting 
+2019-09-02T11:59:27+00:00 DEBUG > Inserted - post ID is 72.
+2019-09-02T11:59:27+00:00 DEBUG > > Importing image "product-1.jpg"
+2019-09-02T11:59:27+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-1.jpg"
+2019-09-02T11:59:27+00:00 DEBUG > > Imported image "product-1.jpg"
+2019-09-02T11:59:27+00:00 DEBUG > > Images set
+2019-09-02T11:59:27+00:00 DEBUG > Finished importing post ID 72.
+2019-09-02T11:59:27+00:00 DEBUG > Row 8 - preparing for import.
+2019-09-02T11:59:27+00:00 DEBUG > Inserting 
+2019-09-02T11:59:27+00:00 DEBUG > Inserted - post ID is 73.
+2019-09-02T11:59:27+00:00 DEBUG > > Importing image "product-1.jpg"
+2019-09-02T11:59:27+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-1.jpg"
+2019-09-02T11:59:27+00:00 DEBUG > > Imported image "product-1.jpg"
+2019-09-02T11:59:27+00:00 DEBUG > > Images set
+2019-09-02T11:59:27+00:00 DEBUG > Finished importing post ID 73.
+2019-09-02T11:59:27+00:00 DEBUG > Row 9 - preparing for import.
+2019-09-02T11:59:27+00:00 DEBUG > Inserting 
+2019-09-02T11:59:27+00:00 DEBUG > Inserted - post ID is 74.
+2019-09-02T11:59:27+00:00 DEBUG > > Importing image "product-1.jpg"
+2019-09-02T11:59:27+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-1.jpg"
+2019-09-02T11:59:27+00:00 DEBUG > > Imported image "product-1.jpg"
+2019-09-02T11:59:27+00:00 DEBUG > > Images set
+2019-09-02T11:59:27+00:00 DEBUG > Finished importing post ID 74.
+2019-09-02T11:59:27+00:00 DEBUG > Row 10 - preparing for import.
+2019-09-02T11:59:27+00:00 DEBUG > Inserting 
+2019-09-02T11:59:27+00:00 DEBUG > Inserted - post ID is 75.
+2019-09-02T11:59:27+00:00 DEBUG > > Importing image "product-1.jpg"
+2019-09-02T11:59:27+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-1.jpg"
+2019-09-02T11:59:27+00:00 DEBUG > > Imported image "product-1.jpg"
+2019-09-02T11:59:27+00:00 DEBUG > > Images set
+2019-09-02T11:59:27+00:00 DEBUG > Finished importing post ID 75.
+2019-09-02T11:59:27+00:00 DEBUG Finished processing products.
+2019-09-02T11:59:28+00:00 DEBUG ---[ New Import ] PHP Memory: 128 MB, WP Memory: 40 MB
+2019-09-02T11:59:28+00:00 DEBUG Parsing products CSV.
+2019-09-02T11:59:28+00:00 DEBUG Finished parsing products CSV.
+2019-09-02T11:59:28+00:00 DEBUG ---
+2019-09-02T11:59:28+00:00 DEBUG Processing products.
+2019-09-02T11:59:28+00:00 DEBUG > Row 1 - preparing for import.
+2019-09-02T11:59:28+00:00 DEBUG > Inserting 
+2019-09-02T11:59:28+00:00 DEBUG > Inserted - post ID is 76.
+2019-09-02T11:59:28+00:00 DEBUG > > Importing image "product-1.jpg"
+2019-09-02T11:59:28+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-1.jpg"
+2019-09-02T11:59:28+00:00 DEBUG > > Imported image "product-1.jpg"
+2019-09-02T11:59:28+00:00 DEBUG > > Images set
+2019-09-02T11:59:28+00:00 DEBUG > Finished importing post ID 76.
+2019-09-02T11:59:28+00:00 DEBUG > Row 2 - preparing for import.
+2019-09-02T11:59:28+00:00 DEBUG > Inserting 
+2019-09-02T11:59:28+00:00 DEBUG > Inserted - post ID is 77.
+2019-09-02T11:59:28+00:00 DEBUG > > Importing image "product-3.jpg"
+2019-09-02T11:59:28+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-3.jpg"
+2019-09-02T11:59:28+00:00 DEBUG > > Imported image "product-3.jpg"
+2019-09-02T11:59:28+00:00 DEBUG > > Images set
+2019-09-02T11:59:28+00:00 DEBUG > Finished importing post ID 77.
+2019-09-02T11:59:28+00:00 DEBUG > Row 3 - preparing for import.
+2019-09-02T11:59:28+00:00 DEBUG > Inserting 
+2019-09-02T11:59:28+00:00 DEBUG > Inserted - post ID is 78.
+2019-09-02T11:59:28+00:00 DEBUG > > Importing image "product-3.jpg"
+2019-09-02T11:59:28+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-3.jpg"
+2019-09-02T11:59:28+00:00 DEBUG > > Imported image "product-3.jpg"
+2019-09-02T11:59:28+00:00 DEBUG > > Images set
+2019-09-02T11:59:28+00:00 DEBUG > Finished importing post ID 78.
+2019-09-02T11:59:28+00:00 DEBUG > Row 4 - preparing for import.
+2019-09-02T11:59:28+00:00 DEBUG > Inserting 
+2019-09-02T11:59:28+00:00 DEBUG > Inserted - post ID is 79.
+2019-09-02T11:59:29+00:00 DEBUG > > Importing image "product-3.jpg"
+2019-09-02T11:59:29+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-3.jpg"
+2019-09-02T11:59:29+00:00 DEBUG > > Imported image "product-3.jpg"
+2019-09-02T11:59:29+00:00 DEBUG > > Images set
+2019-09-02T11:59:29+00:00 DEBUG > Finished importing post ID 79.
+2019-09-02T11:59:29+00:00 DEBUG > Row 5 - preparing for import.
+2019-09-02T11:59:29+00:00 DEBUG > Inserting 
+2019-09-02T11:59:29+00:00 DEBUG > Inserted - post ID is 80.
+2019-09-02T11:59:29+00:00 DEBUG > > Importing image "product-1.jpg"
+2019-09-02T11:59:29+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-1.jpg"
+2019-09-02T11:59:29+00:00 DEBUG > > Imported image "product-1.jpg"
+2019-09-02T11:59:29+00:00 DEBUG > > Images set
+2019-09-02T11:59:29+00:00 DEBUG > Finished importing post ID 80.
+2019-09-02T11:59:29+00:00 DEBUG > Row 6 - preparing for import.
+2019-09-02T11:59:29+00:00 DEBUG > Inserting 
+2019-09-02T11:59:29+00:00 DEBUG > Inserted - post ID is 81.
+2019-09-02T11:59:29+00:00 DEBUG > > Importing image "product-1.jpg"
+2019-09-02T11:59:29+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-1.jpg"
+2019-09-02T11:59:29+00:00 DEBUG > > Imported image "product-1.jpg"
+2019-09-02T11:59:29+00:00 DEBUG > > Images set
+2019-09-02T11:59:29+00:00 DEBUG > Finished importing post ID 81.
+2019-09-02T11:59:29+00:00 DEBUG > Row 7 - preparing for import.
+2019-09-02T11:59:29+00:00 DEBUG > Inserting 
+2019-09-02T11:59:29+00:00 DEBUG > Inserted - post ID is 82.
+2019-09-02T11:59:29+00:00 DEBUG > > Importing image "product-1.jpg"
+2019-09-02T11:59:29+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-1.jpg"
+2019-09-02T11:59:29+00:00 DEBUG > > Imported image "product-1.jpg"
+2019-09-02T11:59:29+00:00 DEBUG > > Images set
+2019-09-02T11:59:29+00:00 DEBUG > Finished importing post ID 82.
+2019-09-02T11:59:29+00:00 DEBUG > Row 8 - preparing for import.
+2019-09-02T11:59:29+00:00 DEBUG > Inserting 
+2019-09-02T11:59:29+00:00 DEBUG > Inserted - post ID is 83.
+2019-09-02T11:59:29+00:00 DEBUG > > Importing image "product-1.jpg"
+2019-09-02T11:59:29+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-1.jpg"
+2019-09-02T11:59:29+00:00 DEBUG > > Imported image "product-1.jpg"
+2019-09-02T11:59:29+00:00 DEBUG > > Images set
+2019-09-02T11:59:29+00:00 DEBUG > Finished importing post ID 83.
+2019-09-02T11:59:29+00:00 DEBUG > Row 9 - preparing for import.
+2019-09-02T11:59:29+00:00 DEBUG > Inserting 
+2019-09-02T11:59:29+00:00 DEBUG > Inserted - post ID is 84.
+2019-09-02T11:59:29+00:00 DEBUG > > Importing image "product-1.jpg"
+2019-09-02T11:59:29+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-1.jpg"
+2019-09-02T11:59:29+00:00 DEBUG > > Imported image "product-1.jpg"
+2019-09-02T11:59:29+00:00 DEBUG > > Images set
+2019-09-02T11:59:29+00:00 DEBUG > Finished importing post ID 84.
+2019-09-02T11:59:29+00:00 DEBUG > Row 10 - preparing for import.
+2019-09-02T11:59:29+00:00 DEBUG > Inserting 
+2019-09-02T11:59:29+00:00 DEBUG > Inserted - post ID is 85.
+2019-09-02T11:59:29+00:00 DEBUG > > Importing image "product-1.jpg"
+2019-09-02T11:59:29+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-1.jpg"
+2019-09-02T11:59:29+00:00 DEBUG > > Imported image "product-1.jpg"
+2019-09-02T11:59:29+00:00 DEBUG > > Images set
+2019-09-02T11:59:29+00:00 DEBUG > Finished importing post ID 85.
+2019-09-02T11:59:29+00:00 DEBUG Finished processing products.
+2019-09-02T11:59:30+00:00 DEBUG ---[ New Import ] PHP Memory: 128 MB, WP Memory: 40 MB
+2019-09-02T11:59:30+00:00 DEBUG Parsing products CSV.
+2019-09-02T11:59:30+00:00 DEBUG Finished parsing products CSV.
+2019-09-02T11:59:30+00:00 DEBUG ---
+2019-09-02T11:59:30+00:00 DEBUG Processing products.
+2019-09-02T11:59:30+00:00 DEBUG > Row 1 - preparing for import.
+2019-09-02T11:59:30+00:00 DEBUG > Inserting 
+2019-09-02T11:59:30+00:00 DEBUG > Inserted - post ID is 86.
+2019-09-02T11:59:30+00:00 DEBUG > > Importing image "product-1.jpg"
+2019-09-02T11:59:30+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-1.jpg"
+2019-09-02T11:59:30+00:00 DEBUG > > Imported image "product-1.jpg"
+2019-09-02T11:59:30+00:00 DEBUG > > Images set
+2019-09-02T11:59:30+00:00 DEBUG > Finished importing post ID 86.
+2019-09-02T11:59:30+00:00 DEBUG Finished processing products.
+2019-09-02T12:01:36+00:00 DEBUG ---[ New Import ] PHP Memory: 128 MB, WP Memory: 40 MB
+2019-09-02T12:01:36+00:00 DEBUG Parsing products CSV.
+2019-09-02T12:01:36+00:00 DEBUG Finished parsing products CSV.
+2019-09-02T12:01:36+00:00 DEBUG ---
+2019-09-02T12:01:36+00:00 DEBUG Processing products.
+2019-09-02T12:01:36+00:00 DEBUG > Row 1 - preparing for import.
+2019-09-02T12:01:36+00:00 DEBUG > Inserting Test Product 1
+2019-09-02T12:01:36+00:00 DEBUG > Inserted - post ID is 88.
+2019-09-02T12:01:36+00:00 DEBUG > > Importing image "product-1.jpg"
+2019-09-02T12:01:36+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-1.jpg"
+2019-09-02T12:01:36+00:00 DEBUG > > Imported image "product-1.jpg"
+2019-09-02T12:01:36+00:00 DEBUG > > Images set
+2019-09-02T12:01:36+00:00 DEBUG > Finished importing post ID 88.
+2019-09-02T12:01:36+00:00 DEBUG > Row 2 - preparing for import.
+2019-09-02T12:01:36+00:00 DEBUG > Inserting Test Product 2
+2019-09-02T12:01:36+00:00 DEBUG > Inserted - post ID is 89.
+2019-09-02T12:01:37+00:00 DEBUG > > Importing image "product-2.jpg"
+2019-09-02T12:01:37+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-2.jpg"
+2019-09-02T12:01:37+00:00 DEBUG > > Imported image "product-2.jpg"
+2019-09-02T12:01:37+00:00 DEBUG > > Images set
+2019-09-02T12:01:37+00:00 DEBUG > Finished importing post ID 89.
+2019-09-02T12:01:37+00:00 DEBUG > Row 3 - preparing for import.
+2019-09-02T12:01:37+00:00 DEBUG > Inserting Test Product 3
+2019-09-02T12:01:37+00:00 DEBUG > Inserted - post ID is 90.
+2019-09-02T12:01:37+00:00 DEBUG > > Importing image "product-3.jpg"
+2019-09-02T12:01:37+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-3.jpg"
+2019-09-02T12:01:37+00:00 DEBUG > > Imported image "product-3.jpg"
+2019-09-02T12:01:37+00:00 DEBUG > > Images set
+2019-09-02T12:01:37+00:00 DEBUG > Finished importing post ID 90.
+2019-09-02T12:01:37+00:00 DEBUG > Row 4 - preparing for import.
+2019-09-02T12:01:37+00:00 DEBUG > Inserting Test Product 4
+2019-09-02T12:01:37+00:00 DEBUG > Inserted - post ID is 91.
+2019-09-02T12:01:37+00:00 DEBUG > > Importing image "product-2.jpg"
+2019-09-02T12:01:37+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-2.jpg"
+2019-09-02T12:01:37+00:00 DEBUG > > Imported image "product-2.jpg"
+2019-09-02T12:01:37+00:00 DEBUG > > Images set
+2019-09-02T12:01:37+00:00 DEBUG > Finished importing post ID 91.
+2019-09-02T12:01:37+00:00 DEBUG > Row 5 - preparing for import.
+2019-09-02T12:01:37+00:00 DEBUG > Inserting Test Product 5
+2019-09-02T12:01:37+00:00 DEBUG > Inserted - post ID is 92.
+2019-09-02T12:01:37+00:00 DEBUG > > Importing image "product-2.jpg"
+2019-09-02T12:01:37+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-2.jpg"
+2019-09-02T12:01:37+00:00 DEBUG > > Imported image "product-2.jpg"
+2019-09-02T12:01:37+00:00 DEBUG > > Images set
+2019-09-02T12:01:37+00:00 DEBUG > Finished importing post ID 92.
+2019-09-02T12:01:37+00:00 DEBUG > Row 6 - preparing for import.
+2019-09-02T12:01:37+00:00 DEBUG > Inserting Test Product 6
+2019-09-02T12:01:37+00:00 DEBUG > Inserted - post ID is 93.
+2019-09-02T12:01:37+00:00 DEBUG > > Importing image "product-3.jpg"
+2019-09-02T12:01:37+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-3.jpg"
+2019-09-02T12:01:37+00:00 DEBUG > > Imported image "product-3.jpg"
+2019-09-02T12:01:37+00:00 DEBUG > > Images set
+2019-09-02T12:01:37+00:00 DEBUG > Finished importing post ID 93.
+2019-09-02T12:01:37+00:00 DEBUG > Row 7 - preparing for import.
+2019-09-02T12:01:37+00:00 DEBUG > Inserting Test Product 7
+2019-09-02T12:01:37+00:00 DEBUG > Inserted - post ID is 94.
+2019-09-02T12:01:37+00:00 DEBUG > > Importing image "product-3.jpg"
+2019-09-02T12:01:37+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-3.jpg"
+2019-09-02T12:01:37+00:00 DEBUG > > Imported image "product-3.jpg"
+2019-09-02T12:01:37+00:00 DEBUG > > Images set
+2019-09-02T12:01:37+00:00 DEBUG > Finished importing post ID 94.
+2019-09-02T12:01:37+00:00 DEBUG > Row 8 - preparing for import.
+2019-09-02T12:01:37+00:00 DEBUG > Inserting Test Product 8
+2019-09-02T12:01:37+00:00 DEBUG > Inserted - post ID is 95.
+2019-09-02T12:01:37+00:00 DEBUG > > Importing image "product-3.jpg"
+2019-09-02T12:01:37+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-3.jpg"
+2019-09-02T12:01:37+00:00 DEBUG > > Imported image "product-3.jpg"
+2019-09-02T12:01:37+00:00 DEBUG > > Images set
+2019-09-02T12:01:37+00:00 DEBUG > Finished importing post ID 95.
+2019-09-02T12:01:37+00:00 DEBUG > Row 9 - preparing for import.
+2019-09-02T12:01:37+00:00 DEBUG > Inserting Test Product 9
+2019-09-02T12:01:37+00:00 DEBUG > Inserted - post ID is 96.
+2019-09-02T12:01:38+00:00 DEBUG > > Importing image "product-3.jpg"
+2019-09-02T12:01:38+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-3.jpg"
+2019-09-02T12:01:38+00:00 DEBUG > > Imported image "product-3.jpg"
+2019-09-02T12:01:38+00:00 DEBUG > > Images set
+2019-09-02T12:01:38+00:00 DEBUG > Finished importing post ID 96.
+2019-09-02T12:01:38+00:00 DEBUG Finished processing products.
+2019-09-02T12:01:39+00:00 DEBUG ---[ New Import ] PHP Memory: 128 MB, WP Memory: 40 MB
+2019-09-02T12:01:39+00:00 DEBUG Parsing products CSV.
+2019-09-02T12:01:39+00:00 DEBUG Finished parsing products CSV.
+2019-09-02T12:01:39+00:00 DEBUG ---
+2019-09-02T12:01:39+00:00 DEBUG Processing products.
+2019-09-02T12:01:39+00:00 DEBUG > Row 1 - preparing for import.
+2019-09-02T12:01:39+00:00 DEBUG > Inserting Test Product 10
+2019-09-02T12:01:39+00:00 DEBUG > Inserted - post ID is 97.
+2019-09-02T12:01:39+00:00 DEBUG > > Importing image "product-2.jpg"
+2019-09-02T12:01:39+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-2.jpg"
+2019-09-02T12:01:39+00:00 DEBUG > > Imported image "product-2.jpg"
+2019-09-02T12:01:39+00:00 DEBUG > > Images set
+2019-09-02T12:01:39+00:00 DEBUG > Finished importing post ID 97.
+2019-09-02T12:01:39+00:00 DEBUG > Row 2 - preparing for import.
+2019-09-02T12:01:39+00:00 DEBUG > Inserting Test Product 11
+2019-09-02T12:01:39+00:00 DEBUG > Inserted - post ID is 98.
+2019-09-02T12:01:39+00:00 DEBUG > > Importing image "product-2.jpg"
+2019-09-02T12:01:39+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-2.jpg"
+2019-09-02T12:01:39+00:00 DEBUG > > Imported image "product-2.jpg"
+2019-09-02T12:01:39+00:00 DEBUG > > Images set
+2019-09-02T12:01:39+00:00 DEBUG > Finished importing post ID 98.
+2019-09-02T12:01:39+00:00 DEBUG > Row 3 - preparing for import.
+2019-09-02T12:01:39+00:00 DEBUG > Inserting Test Product 12
+2019-09-02T12:01:39+00:00 DEBUG > Inserted - post ID is 99.
+2019-09-02T12:01:39+00:00 DEBUG > > Importing image "product-2.jpg"
+2019-09-02T12:01:39+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-2.jpg"
+2019-09-02T12:01:39+00:00 DEBUG > > Imported image "product-2.jpg"
+2019-09-02T12:01:39+00:00 DEBUG > > Images set
+2019-09-02T12:01:39+00:00 DEBUG > Finished importing post ID 99.
+2019-09-02T12:01:39+00:00 DEBUG > Row 4 - preparing for import.
+2019-09-02T12:01:39+00:00 DEBUG > Inserting Test Product 13
+2019-09-02T12:01:39+00:00 DEBUG > Inserted - post ID is 100.
+2019-09-02T12:01:39+00:00 DEBUG > > Importing image "product-2.jpg"
+2019-09-02T12:01:39+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-2.jpg"
+2019-09-02T12:01:39+00:00 DEBUG > > Imported image "product-2.jpg"
+2019-09-02T12:01:39+00:00 DEBUG > > Images set
+2019-09-02T12:01:39+00:00 DEBUG > Finished importing post ID 100.
+2019-09-02T12:01:39+00:00 DEBUG > Row 5 - preparing for import.
+2019-09-02T12:01:39+00:00 DEBUG > Inserting Test Product 14
+2019-09-02T12:01:39+00:00 DEBUG > Inserted - post ID is 101.
+2019-09-02T12:01:39+00:00 DEBUG > > Importing image "product-1.jpg"
+2019-09-02T12:01:40+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-1.jpg"
+2019-09-02T12:01:40+00:00 DEBUG > > Imported image "product-1.jpg"
+2019-09-02T12:01:40+00:00 DEBUG > > Images set
+2019-09-02T12:01:40+00:00 DEBUG > Finished importing post ID 101.
+2019-09-02T12:01:40+00:00 DEBUG > Row 6 - preparing for import.
+2019-09-02T12:01:40+00:00 DEBUG > Inserting Test Product 15
+2019-09-02T12:01:40+00:00 DEBUG > Inserted - post ID is 102.
+2019-09-02T12:01:40+00:00 DEBUG > > Importing image "product-1.jpg"
+2019-09-02T12:01:40+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-1.jpg"
+2019-09-02T12:01:40+00:00 DEBUG > > Imported image "product-1.jpg"
+2019-09-02T12:01:40+00:00 DEBUG > > Images set
+2019-09-02T12:01:40+00:00 DEBUG > Finished importing post ID 102.
+2019-09-02T12:01:40+00:00 DEBUG > Row 7 - preparing for import.
+2019-09-02T12:01:40+00:00 DEBUG > Inserting Test Product 16
+2019-09-02T12:01:40+00:00 DEBUG > Inserted - post ID is 103.
+2019-09-02T12:01:40+00:00 DEBUG > > Importing image "product-1.jpg"
+2019-09-02T12:01:40+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-1.jpg"
+2019-09-02T12:01:40+00:00 DEBUG > > Imported image "product-1.jpg"
+2019-09-02T12:01:40+00:00 DEBUG > > Images set
+2019-09-02T12:01:40+00:00 DEBUG > Finished importing post ID 103.
+2019-09-02T12:01:40+00:00 DEBUG > Row 8 - preparing for import.
+2019-09-02T12:01:40+00:00 DEBUG > Inserting Test Product 17
+2019-09-02T12:01:40+00:00 DEBUG > Inserted - post ID is 104.
+2019-09-02T12:01:40+00:00 DEBUG > > Importing image "product-1.jpg"
+2019-09-02T12:01:40+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-1.jpg"
+2019-09-02T12:01:40+00:00 DEBUG > > Imported image "product-1.jpg"
+2019-09-02T12:01:40+00:00 DEBUG > > Images set
+2019-09-02T12:01:40+00:00 DEBUG > Finished importing post ID 104.
+2019-09-02T12:01:40+00:00 DEBUG > Row 9 - preparing for import.
+2019-09-02T12:01:40+00:00 DEBUG > Inserting Test Product 18
+2019-09-02T12:01:40+00:00 DEBUG > Inserted - post ID is 105.
+2019-09-02T12:01:40+00:00 DEBUG > > Importing image "product-1.jpg"
+2019-09-02T12:01:40+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-1.jpg"
+2019-09-02T12:01:40+00:00 DEBUG > > Imported image "product-1.jpg"
+2019-09-02T12:01:40+00:00 DEBUG > > Images set
+2019-09-02T12:01:40+00:00 DEBUG > Finished importing post ID 105.
+2019-09-02T12:01:40+00:00 DEBUG > Row 10 - preparing for import.
+2019-09-02T12:01:40+00:00 DEBUG > Inserting Test Product 19
+2019-09-02T12:01:40+00:00 DEBUG > Inserted - post ID is 106.
+2019-09-02T12:01:40+00:00 DEBUG > > Importing image "product-3.jpg"
+2019-09-02T12:01:40+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-3.jpg"
+2019-09-02T12:01:40+00:00 DEBUG > > Imported image "product-3.jpg"
+2019-09-02T12:01:40+00:00 DEBUG > > Images set
+2019-09-02T12:01:40+00:00 DEBUG > Finished importing post ID 106.
+2019-09-02T12:01:40+00:00 DEBUG Finished processing products.
+2019-09-02T12:01:41+00:00 DEBUG ---[ New Import ] PHP Memory: 128 MB, WP Memory: 40 MB
+2019-09-02T12:01:41+00:00 DEBUG Parsing products CSV.
+2019-09-02T12:01:41+00:00 DEBUG Finished parsing products CSV.
+2019-09-02T12:01:41+00:00 DEBUG ---
+2019-09-02T12:01:41+00:00 DEBUG Processing products.
+2019-09-02T12:01:41+00:00 DEBUG > Row 1 - preparing for import.
+2019-09-02T12:01:41+00:00 DEBUG > Inserting Test Product 20
+2019-09-02T12:01:41+00:00 DEBUG > Inserted - post ID is 107.
+2019-09-02T12:01:41+00:00 DEBUG > > Importing image "product-3.jpg"
+2019-09-02T12:01:41+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-3.jpg"
+2019-09-02T12:01:41+00:00 DEBUG > > Imported image "product-3.jpg"
+2019-09-02T12:01:41+00:00 DEBUG > > Images set
+2019-09-02T12:01:41+00:00 DEBUG > Finished importing post ID 107.
+2019-09-02T12:01:41+00:00 DEBUG > Row 2 - preparing for import.
+2019-09-02T12:01:41+00:00 DEBUG > Inserting Test Product 21
+2019-09-02T12:01:41+00:00 DEBUG > Inserted - post ID is 108.
+2019-09-02T12:01:41+00:00 DEBUG > > Importing image "product-3.jpg"
+2019-09-02T12:01:41+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-3.jpg"
+2019-09-02T12:01:41+00:00 DEBUG > > Imported image "product-3.jpg"
+2019-09-02T12:01:41+00:00 DEBUG > > Images set
+2019-09-02T12:01:41+00:00 DEBUG > Finished importing post ID 108.
+2019-09-02T12:01:41+00:00 DEBUG > Row 3 - preparing for import.
+2019-09-02T12:01:41+00:00 DEBUG > Inserting Test Product 22
+2019-09-02T12:01:41+00:00 DEBUG > Inserted - post ID is 109.
+2019-09-02T12:01:41+00:00 DEBUG > > Importing image "product-1.jpg"
+2019-09-02T12:01:41+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-1.jpg"
+2019-09-02T12:01:41+00:00 DEBUG > > Imported image "product-1.jpg"
+2019-09-02T12:01:41+00:00 DEBUG > > Images set
+2019-09-02T12:01:41+00:00 DEBUG > Finished importing post ID 109.
+2019-09-02T12:01:41+00:00 DEBUG > Row 4 - preparing for import.
+2019-09-02T12:01:41+00:00 DEBUG > Inserting Test Product 23
+2019-09-02T12:01:41+00:00 DEBUG > Inserted - post ID is 110.
+2019-09-02T12:01:42+00:00 DEBUG > > Importing image "product-1.jpg"
+2019-09-02T12:01:42+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-1.jpg"
+2019-09-02T12:01:42+00:00 DEBUG > > Imported image "product-1.jpg"
+2019-09-02T12:01:42+00:00 DEBUG > > Images set
+2019-09-02T12:01:42+00:00 DEBUG > Finished importing post ID 110.
+2019-09-02T12:01:42+00:00 DEBUG > Row 5 - preparing for import.
+2019-09-02T12:01:42+00:00 DEBUG > Inserting Test Product 24
+2019-09-02T12:01:42+00:00 DEBUG > Inserted - post ID is 111.
+2019-09-02T12:01:42+00:00 DEBUG > > Importing image "product-2.jpg"
+2019-09-02T12:01:42+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-2.jpg"
+2019-09-02T12:01:42+00:00 DEBUG > > Imported image "product-2.jpg"
+2019-09-02T12:01:42+00:00 DEBUG > > Images set
+2019-09-02T12:01:42+00:00 DEBUG > Finished importing post ID 111.
+2019-09-02T12:01:42+00:00 DEBUG > Row 6 - preparing for import.
+2019-09-02T12:01:42+00:00 DEBUG > Inserting Test Product 25
+2019-09-02T12:01:42+00:00 DEBUG > Inserted - post ID is 112.
+2019-09-02T12:01:42+00:00 DEBUG > > Importing image "product-2.jpg"
+2019-09-02T12:01:42+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-2.jpg"
+2019-09-02T12:01:42+00:00 DEBUG > > Imported image "product-2.jpg"
+2019-09-02T12:01:42+00:00 DEBUG > > Images set
+2019-09-02T12:01:42+00:00 DEBUG > Finished importing post ID 112.
+2019-09-02T12:01:42+00:00 DEBUG > Row 7 - preparing for import.
+2019-09-02T12:01:42+00:00 DEBUG > Inserting Test Product 26
+2019-09-02T12:01:42+00:00 DEBUG > Inserted - post ID is 113.
+2019-09-02T12:01:42+00:00 DEBUG > > Importing image "product-1.jpg"
+2019-09-02T12:01:42+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-1.jpg"
+2019-09-02T12:01:42+00:00 DEBUG > > Imported image "product-1.jpg"
+2019-09-02T12:01:42+00:00 DEBUG > > Images set
+2019-09-02T12:01:42+00:00 DEBUG > Finished importing post ID 113.
+2019-09-02T12:01:42+00:00 DEBUG > Row 8 - preparing for import.
+2019-09-02T12:01:42+00:00 DEBUG > Inserting Test Product 27
+2019-09-02T12:01:42+00:00 DEBUG > Inserted - post ID is 114.
+2019-09-02T12:01:42+00:00 DEBUG > > Importing image "product-1.jpg"
+2019-09-02T12:01:42+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-1.jpg"
+2019-09-02T12:01:42+00:00 DEBUG > > Imported image "product-1.jpg"
+2019-09-02T12:01:42+00:00 DEBUG > > Images set
+2019-09-02T12:01:42+00:00 DEBUG > Finished importing post ID 114.
+2019-09-02T12:01:42+00:00 DEBUG > Row 9 - preparing for import.
+2019-09-02T12:01:42+00:00 DEBUG > Inserting Test Product 28
+2019-09-02T12:01:42+00:00 DEBUG > Inserted - post ID is 115.
+2019-09-02T12:01:42+00:00 DEBUG > > Importing image "product-1.jpg"
+2019-09-02T12:01:42+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-1.jpg"
+2019-09-02T12:01:42+00:00 DEBUG > > Imported image "product-1.jpg"
+2019-09-02T12:01:42+00:00 DEBUG > > Images set
+2019-09-02T12:01:42+00:00 DEBUG > Finished importing post ID 115.
+2019-09-02T12:01:42+00:00 DEBUG > Row 10 - preparing for import.
+2019-09-02T12:01:42+00:00 DEBUG > Inserting Test Product 29
+2019-09-02T12:01:42+00:00 DEBUG > Inserted - post ID is 116.
+2019-09-02T12:01:42+00:00 DEBUG > > Importing image "product-3.jpg"
+2019-09-02T12:01:42+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-3.jpg"
+2019-09-02T12:01:42+00:00 DEBUG > > Imported image "product-3.jpg"
+2019-09-02T12:01:42+00:00 DEBUG > > Images set
+2019-09-02T12:01:43+00:00 DEBUG > Finished importing post ID 116.
+2019-09-02T12:01:43+00:00 DEBUG Finished processing products.
+2019-09-02T12:01:43+00:00 DEBUG ---[ New Import ] PHP Memory: 128 MB, WP Memory: 40 MB
+2019-09-02T12:01:43+00:00 DEBUG Parsing products CSV.
+2019-09-02T12:01:43+00:00 DEBUG Finished parsing products CSV.
+2019-09-02T12:01:43+00:00 DEBUG ---
+2019-09-02T12:01:43+00:00 DEBUG Processing products.
+2019-09-02T12:01:43+00:00 DEBUG > Row 1 - preparing for import.
+2019-09-02T12:01:43+00:00 DEBUG > Inserting Test Product 30
+2019-09-02T12:01:43+00:00 DEBUG > Inserted - post ID is 117.
+2019-09-02T12:01:43+00:00 DEBUG > > Importing image "product-3.jpg"
+2019-09-02T12:01:43+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-3.jpg"
+2019-09-02T12:01:43+00:00 DEBUG > > Imported image "product-3.jpg"
+2019-09-02T12:01:43+00:00 DEBUG > > Images set
+2019-09-02T12:01:43+00:00 DEBUG > Finished importing post ID 117.
+2019-09-02T12:01:43+00:00 DEBUG > Row 2 - preparing for import.
+2019-09-02T12:01:43+00:00 DEBUG > Inserting Test Product 31
+2019-09-02T12:01:43+00:00 DEBUG > Inserted - post ID is 118.
+2019-09-02T12:01:43+00:00 DEBUG > > Importing image "product-3.jpg"
+2019-09-02T12:01:43+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-3.jpg"
+2019-09-02T12:01:43+00:00 DEBUG > > Imported image "product-3.jpg"
+2019-09-02T12:01:43+00:00 DEBUG > > Images set
+2019-09-02T12:01:43+00:00 DEBUG > Finished importing post ID 118.
+2019-09-02T12:01:43+00:00 DEBUG > Row 3 - preparing for import.
+2019-09-02T12:01:43+00:00 DEBUG > Inserting Test Product 32
+2019-09-02T12:01:43+00:00 DEBUG > Inserted - post ID is 119.
+2019-09-02T12:01:44+00:00 DEBUG > > Importing image "product-3.jpg"
+2019-09-02T12:01:44+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-3.jpg"
+2019-09-02T12:01:44+00:00 DEBUG > > Imported image "product-3.jpg"
+2019-09-02T12:01:44+00:00 DEBUG > > Images set
+2019-09-02T12:01:44+00:00 DEBUG > Finished importing post ID 119.
+2019-09-02T12:01:44+00:00 DEBUG > Row 4 - preparing for import.
+2019-09-02T12:01:44+00:00 DEBUG > Inserting Test Product 33
+2019-09-02T12:01:44+00:00 DEBUG > Inserted - post ID is 120.
+2019-09-02T12:01:44+00:00 DEBUG > > Importing image "product-3.jpg"
+2019-09-02T12:01:44+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-3.jpg"
+2019-09-02T12:01:44+00:00 DEBUG > > Imported image "product-3.jpg"
+2019-09-02T12:01:44+00:00 DEBUG > > Images set
+2019-09-02T12:01:44+00:00 DEBUG > Finished importing post ID 120.
+2019-09-02T12:01:44+00:00 DEBUG > Row 5 - preparing for import.
+2019-09-02T12:01:44+00:00 DEBUG > Inserting Test Product 34
+2019-09-02T12:01:44+00:00 DEBUG > Inserted - post ID is 121.
+2019-09-02T12:01:44+00:00 DEBUG > > Importing image "product-1.jpg"
+2019-09-02T12:01:44+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-1.jpg"
+2019-09-02T12:01:44+00:00 DEBUG > > Imported image "product-1.jpg"
+2019-09-02T12:01:44+00:00 DEBUG > > Images set
+2019-09-02T12:01:44+00:00 DEBUG > Finished importing post ID 121.
+2019-09-02T12:01:44+00:00 DEBUG > Row 6 - preparing for import.
+2019-09-02T12:01:44+00:00 DEBUG > Inserting Test Product 35
+2019-09-02T12:01:44+00:00 DEBUG > Inserted - post ID is 122.
+2019-09-02T12:01:44+00:00 DEBUG > > Importing image "product-1.jpg"
+2019-09-02T12:01:44+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-1.jpg"
+2019-09-02T12:01:44+00:00 DEBUG > > Imported image "product-1.jpg"
+2019-09-02T12:01:44+00:00 DEBUG > > Images set
+2019-09-02T12:01:44+00:00 DEBUG > Finished importing post ID 122.
+2019-09-02T12:01:44+00:00 DEBUG > Row 7 - preparing for import.
+2019-09-02T12:01:44+00:00 DEBUG > Inserting Test Product 36
+2019-09-02T12:01:44+00:00 DEBUG > Inserted - post ID is 123.
+2019-09-02T12:01:44+00:00 DEBUG > > Importing image "product-1.jpg"
+2019-09-02T12:01:44+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-1.jpg"
+2019-09-02T12:01:44+00:00 DEBUG > > Imported image "product-1.jpg"
+2019-09-02T12:01:44+00:00 DEBUG > > Images set
+2019-09-02T12:01:44+00:00 DEBUG > Finished importing post ID 123.
+2019-09-02T12:01:44+00:00 DEBUG > Row 8 - preparing for import.
+2019-09-02T12:01:44+00:00 DEBUG > Inserting Test Product 37
+2019-09-02T12:01:44+00:00 DEBUG > Inserted - post ID is 124.
+2019-09-02T12:01:44+00:00 DEBUG > > Importing image "product-1.jpg"
+2019-09-02T12:01:44+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-1.jpg"
+2019-09-02T12:01:44+00:00 DEBUG > > Imported image "product-1.jpg"
+2019-09-02T12:01:44+00:00 DEBUG > > Images set
+2019-09-02T12:01:44+00:00 DEBUG > Finished importing post ID 124.
+2019-09-02T12:01:44+00:00 DEBUG > Row 9 - preparing for import.
+2019-09-02T12:01:44+00:00 DEBUG > Inserting Test Product 38
+2019-09-02T12:01:44+00:00 DEBUG > Inserted - post ID is 125.
+2019-09-02T12:01:45+00:00 DEBUG > > Importing image "product-1.jpg"
+2019-09-02T12:01:45+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-1.jpg"
+2019-09-02T12:01:45+00:00 DEBUG > > Imported image "product-1.jpg"
+2019-09-02T12:01:45+00:00 DEBUG > > Images set
+2019-09-02T12:01:45+00:00 DEBUG > Finished importing post ID 125.
+2019-09-02T12:01:45+00:00 DEBUG > Row 10 - preparing for import.
+2019-09-02T12:01:45+00:00 DEBUG > Inserting Test Product 39
+2019-09-02T12:01:45+00:00 DEBUG > Inserted - post ID is 126.
+2019-09-02T12:01:45+00:00 DEBUG > > Importing image "product-1.jpg"
+2019-09-02T12:01:45+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-1.jpg"
+2019-09-02T12:01:45+00:00 DEBUG > > Imported image "product-1.jpg"
+2019-09-02T12:01:45+00:00 DEBUG > > Images set
+2019-09-02T12:01:45+00:00 DEBUG > Finished importing post ID 126.
+2019-09-02T12:01:45+00:00 DEBUG Finished processing products.
+2019-09-02T12:01:45+00:00 DEBUG ---[ New Import ] PHP Memory: 128 MB, WP Memory: 40 MB
+2019-09-02T12:01:45+00:00 DEBUG Parsing products CSV.
+2019-09-02T12:01:45+00:00 DEBUG Finished parsing products CSV.
+2019-09-02T12:01:45+00:00 DEBUG ---
+2019-09-02T12:01:45+00:00 DEBUG Processing products.
+2019-09-02T12:01:45+00:00 DEBUG > Row 1 - preparing for import.
+2019-09-02T12:01:45+00:00 DEBUG > Inserting Test Product 40
+2019-09-02T12:01:45+00:00 DEBUG > Inserted - post ID is 127.
+2019-09-02T12:01:45+00:00 DEBUG > > Importing image "product-1.jpg"
+2019-09-02T12:01:45+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-1.jpg"
+2019-09-02T12:01:45+00:00 DEBUG > > Imported image "product-1.jpg"
+2019-09-02T12:01:46+00:00 DEBUG > > Images set
+2019-09-02T12:01:46+00:00 DEBUG > Finished importing post ID 127.
+2019-09-02T12:01:46+00:00 DEBUG > Row 2 - preparing for import.
+2019-09-02T12:01:46+00:00 DEBUG > Inserting Test Product 41
+2019-09-02T12:01:46+00:00 DEBUG > Inserted - post ID is 128.
+2019-09-02T12:01:46+00:00 DEBUG > > Importing image "product-3.jpg"
+2019-09-02T12:01:46+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-3.jpg"
+2019-09-02T12:01:46+00:00 DEBUG > > Imported image "product-3.jpg"
+2019-09-02T12:01:46+00:00 DEBUG > > Images set
+2019-09-02T12:01:46+00:00 DEBUG > Finished importing post ID 128.
+2019-09-02T12:01:46+00:00 DEBUG > Row 3 - preparing for import.
+2019-09-02T12:01:46+00:00 DEBUG > Inserting Test Product 42
+2019-09-02T12:01:46+00:00 DEBUG > Inserted - post ID is 129.
+2019-09-02T12:01:46+00:00 DEBUG > > Importing image "product-3.jpg"
+2019-09-02T12:01:46+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-3.jpg"
+2019-09-02T12:01:46+00:00 DEBUG > > Imported image "product-3.jpg"
+2019-09-02T12:01:46+00:00 DEBUG > > Images set
+2019-09-02T12:01:46+00:00 DEBUG > Finished importing post ID 129.
+2019-09-02T12:01:46+00:00 DEBUG > Row 4 - preparing for import.
+2019-09-02T12:01:46+00:00 DEBUG > Inserting Test Product 43
+2019-09-02T12:01:46+00:00 DEBUG > Inserted - post ID is 130.
+2019-09-02T12:01:46+00:00 DEBUG > > Importing image "product-3.jpg"
+2019-09-02T12:01:46+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-3.jpg"
+2019-09-02T12:01:46+00:00 DEBUG > > Imported image "product-3.jpg"
+2019-09-02T12:01:46+00:00 DEBUG > > Images set
+2019-09-02T12:01:46+00:00 DEBUG > Finished importing post ID 130.
+2019-09-02T12:01:46+00:00 DEBUG > Row 5 - preparing for import.
+2019-09-02T12:01:46+00:00 DEBUG > Inserting Test Product 44
+2019-09-02T12:01:46+00:00 DEBUG > Inserted - post ID is 131.
+2019-09-02T12:01:46+00:00 DEBUG > > Importing image "product-1.jpg"
+2019-09-02T12:01:46+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-1.jpg"
+2019-09-02T12:01:46+00:00 DEBUG > > Imported image "product-1.jpg"
+2019-09-02T12:01:46+00:00 DEBUG > > Images set
+2019-09-02T12:01:46+00:00 DEBUG > Finished importing post ID 131.
+2019-09-02T12:01:46+00:00 DEBUG > Row 6 - preparing for import.
+2019-09-02T12:01:46+00:00 DEBUG > Inserting Test Product 45
+2019-09-02T12:01:46+00:00 DEBUG > Inserted - post ID is 132.
+2019-09-02T12:01:46+00:00 DEBUG > > Importing image "product-1.jpg"
+2019-09-02T12:01:46+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-1.jpg"
+2019-09-02T12:01:46+00:00 DEBUG > > Imported image "product-1.jpg"
+2019-09-02T12:01:46+00:00 DEBUG > > Images set
+2019-09-02T12:01:46+00:00 DEBUG > Finished importing post ID 132.
+2019-09-02T12:01:46+00:00 DEBUG > Row 7 - preparing for import.
+2019-09-02T12:01:46+00:00 DEBUG > Inserting Test Product 46
+2019-09-02T12:01:46+00:00 DEBUG > Inserted - post ID is 133.
+2019-09-02T12:01:46+00:00 DEBUG > > Importing image "product-1.jpg"
+2019-09-02T12:01:46+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-1.jpg"
+2019-09-02T12:01:46+00:00 DEBUG > > Imported image "product-1.jpg"
+2019-09-02T12:01:46+00:00 DEBUG > > Images set
+2019-09-02T12:01:46+00:00 DEBUG > Finished importing post ID 133.
+2019-09-02T12:01:46+00:00 DEBUG > Row 8 - preparing for import.
+2019-09-02T12:01:46+00:00 DEBUG > Inserting Test Product 47
+2019-09-02T12:01:46+00:00 DEBUG > Inserted - post ID is 134.
+2019-09-02T12:01:47+00:00 DEBUG > > Importing image "product-1.jpg"
+2019-09-02T12:01:47+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-1.jpg"
+2019-09-02T12:01:47+00:00 DEBUG > > Imported image "product-1.jpg"
+2019-09-02T12:01:47+00:00 DEBUG > > Images set
+2019-09-02T12:01:47+00:00 DEBUG > Finished importing post ID 134.
+2019-09-02T12:01:47+00:00 DEBUG > Row 9 - preparing for import.
+2019-09-02T12:01:47+00:00 DEBUG > Inserting Test Product 48
+2019-09-02T12:01:47+00:00 DEBUG > Inserted - post ID is 135.
+2019-09-02T12:01:47+00:00 DEBUG > > Importing image "product-1.jpg"
+2019-09-02T12:01:47+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-1.jpg"
+2019-09-02T12:01:47+00:00 DEBUG > > Imported image "product-1.jpg"
+2019-09-02T12:01:47+00:00 DEBUG > > Images set
+2019-09-02T12:01:47+00:00 DEBUG > Finished importing post ID 135.
+2019-09-02T12:01:47+00:00 DEBUG > Row 10 - preparing for import.
+2019-09-02T12:01:47+00:00 DEBUG > Inserting Test Product 49
+2019-09-02T12:01:47+00:00 DEBUG > Inserted - post ID is 136.
+2019-09-02T12:01:47+00:00 DEBUG > > Importing image "product-1.jpg"
+2019-09-02T12:01:47+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-1.jpg"
+2019-09-02T12:01:47+00:00 DEBUG > > Imported image "product-1.jpg"
+2019-09-02T12:01:47+00:00 DEBUG > > Images set
+2019-09-02T12:01:47+00:00 DEBUG > Finished importing post ID 136.
+2019-09-02T12:01:47+00:00 DEBUG Finished processing products.
+2019-09-02T12:01:48+00:00 DEBUG ---[ New Import ] PHP Memory: 128 MB, WP Memory: 40 MB
+2019-09-02T12:01:48+00:00 DEBUG Parsing products CSV.
+2019-09-02T12:01:48+00:00 DEBUG Finished parsing products CSV.
+2019-09-02T12:01:48+00:00 DEBUG ---
+2019-09-02T12:01:48+00:00 DEBUG Processing products.
+2019-09-02T12:01:48+00:00 DEBUG > Row 1 - preparing for import.
+2019-09-02T12:01:48+00:00 DEBUG > Inserting Test Product 50
+2019-09-02T12:01:48+00:00 DEBUG > Inserted - post ID is 137.
+2019-09-02T12:01:48+00:00 DEBUG > > Importing image "product-1.jpg"
+2019-09-02T12:01:48+00:00 DEBUG > > (Image already in the site)Inserted image attachment "product-1.jpg"
+2019-09-02T12:01:48+00:00 DEBUG > > Imported image "product-1.jpg"
+2019-09-02T12:01:48+00:00 DEBUG > > Images set
+2019-09-02T12:01:48+00:00 DEBUG > Finished importing post ID 137.
+2019-09-02T12:01:48+00:00 DEBUG Finished processing products.
